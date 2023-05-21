@@ -1,4 +1,4 @@
-# sending and receiving encrypted emails with JAVA in one file
+# sending and receiving encrypted emails with JAVA in one file + graphical interface
  a code who could Send and receive encrypted emails by decrypting them (RSA methode).
 
  in just one file you can find all the code needed to run this program perfectly.
